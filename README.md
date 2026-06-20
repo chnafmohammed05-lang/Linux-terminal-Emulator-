@@ -88,3 +88,15 @@ Project description: Its just a terminal made with python that acts like a real 
 Language: Python (100%)
 ##Screenshot
 <img width="951" height="1026" alt="image" src="https://github.com/user-attachments/assets/3fb2e69a-25e9-4f63-a251-ed4a363f4542" />
+it also runs pipesas you see
+<img width="959" height="510" alt="image" src="https://github.com/user-attachments/assets/0376c273-2a23-4ea6-af4b-37e2be94c3b1" />
+also its green its not colorfull
+<img width="954" height="445" alt="image" src="https://github.com/user-attachments/assets/f5d065fb-0103-47ad-9675-043691d859f9" />
+IT RUNS CMATRIX ALSO!!
+<img width="950" height="516" alt="image" src="https://github.com/user-attachments/assets/91282f21-d66e-472b-9244-310edcd978b4" />
+HTOP ALSO!!
+<img width="947" height="507" alt="image" src="https://github.com/user-attachments/assets/4c74aedd-e698-423c-987d-823c661cea75" />
+BTOP!!
+<img width="943" height="513" alt="image" src="https://github.com/user-attachments/assets/0dbba47f-fbd1-4202-8c20-04180006f87c" />
+PET ALSO!!
+<img width="913" height="503" alt="image" src="https://github.com/user-attachments/assets/bb4b5fa7-0d2a-4e72-89f5-494c905945db" />
