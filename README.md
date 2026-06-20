@@ -86,3 +86,5 @@ This is a simple terminal emulator implemented in Python that mimics many behavi
 Maintainer: chnafmohammed05-lang
 Project description: Its just a terminal made with python that acts like a real terminal.
 Language: Python (100%)
+##Screenshot
+<img width="951" height="1026" alt="image" src="https://github.com/user-attachments/assets/3fb2e69a-25e9-4f63-a251-ed4a363f4542" />
